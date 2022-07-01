@@ -48,7 +48,7 @@ img {
   display: none;
 }
 
-.card-info > div {
+.card-info > section {
   display: flex;
   flex-direction: column;
   padding: 3.2rem;
