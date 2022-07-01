@@ -49,8 +49,8 @@ The class names could maybe use some work, they don't follow any sort of convent
 
 ### Useful resources
 
-- [StackOverflow]([https://www.example.com](https://stackoverflow.com/questions/32765039/using-margin-on-flex-items)) - I encountered an issue trying to use margin/padding on the product information that manipulated the product image. This StackOverflow thread taught me a work around using a nested div.
-- [StackOverflow]([https://www.example.com](https://stackoverflow.com/questions/27853884/media-queries-and-image-swapping)) - I've never dealt with changing entire images based on screen sizes. I found this thread that explained to me how to manage that.
+- [StackOverflow](https://stackoverflow.com/questions/32765039/using-margin-on-flex-items) - I encountered an issue trying to use margin/padding on the product information that manipulated the product image. This StackOverflow thread taught me a work around using a nested div.
+- [StackOverflow](https://stackoverflow.com/questions/27853884/media-queries-and-image-swapping) - I've never dealt with changing entire images based on screen sizes. I found this thread that explained to me how to manage that.
 
 ## Author
 
