@@ -71,6 +71,7 @@ img {
   font-size: 3.2rem;
   line-height: 32px;
   margin-bottom: 2.4rem;
+  width: 80%;
 }
 
 .card-info-desc {
@@ -155,6 +156,7 @@ img {
   .card-info-title,
   .card-info-desc,
   .card-info-pricing {
+    width: 100%;
     margin-bottom: 1.8rem;
   }
 }
